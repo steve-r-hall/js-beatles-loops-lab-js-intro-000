@@ -25,7 +25,7 @@ function iLoveTheBeatles(int) {
   var occ = 0;
   var cnt = int;
   do {
-    lovtab{occ] = lit1;
+    lovtab[occ] = lit1;
     occ = occ + 1;
     cnt = cnt + 1;
   }
